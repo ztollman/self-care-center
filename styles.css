@@ -1,0 +1,79 @@
+body {
+  height: 100vh;
+  background: rgb(247,228,191);
+  background: linear-gradient(
+    0deg, 
+    rgba(247,228,191,1) 0%, 
+    rgba(120,167,198,1) 46%,
+    rgba(19,77,113,1) 86%
+  );
+}
+
+h1,h2,p,label,button {
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+}
+
+h1, h2 {
+  color: white;
+  margin: 0px;
+}
+
+header {
+  margin: 50px;
+}
+
+label {
+  font-style: oblique;
+  font-size: large;
+  margin-bottom: 100px;
+}
+
+input {
+  height: 20px;
+  width: 50px;
+  margin: 0px;
+}
+
+.radio {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.select-message {
+ display: flex;
+ justify-content: space-between;
+ flex-direction: column;
+ align-items: center;
+ margin: 0%;
+}
+
+.select {
+  display: flex;
+  width: 40vw;
+  padding: 5px;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.box {
+  background-color: white;
+  margin: 10px;
+  -webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+
+button {
+  border-radius: 5px;
+  height: 30px;
+  width: 200px;
+  border: none;
+  background-color: rgba(19,77,113,1);
+  color: white;
+  margin: 5px;
+  font-size: large;
+}
