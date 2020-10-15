@@ -26,12 +26,16 @@ Make sure you're utilizing git best practices (branches) and commiting frequentl
 - Images are below
 - An assets directory is provided in the repo, and colors and fonts are provided in the CSS file.
 
+<img width="1434" alt="Screen Shot 2020-10-15 at 10 05 58 AM 👁 " src="https://user-images.githubusercontent.com/49926352/96159974-93c4c780-0ed2-11eb-9009-68501c2b5bd7.png">
+
 <hr/>
 
 ### Iteration 1: Minimum Viable Product (MVP) - Add Random Affirmation and Mantra feature
 
-- When a user selects a message option  and then clicks the "Receive Message" button, the user sees a random message from the list of possible messages for that category
+- When a user selects a message option and then clicks the "Receive Message" button, the user sees a random message from the list of possible messages for that category
 - When the message appears, the mediation icon disappears from the message area
+
+<img width="1434" alt="Screen Shot 2020-10-15 at 10 06 20 AM 👁 " src="https://user-images.githubusercontent.com/49926352/96160091-b7880d80-0ed2-11eb-9e16-2c7e52b72509.png">
 
 <hr/>
 
